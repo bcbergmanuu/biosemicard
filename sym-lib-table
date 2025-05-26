@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ads2154e")(type "KiCad")(uri "${KIPRJMOD}/ADS1254E/ADS1254E.kicad_sym")(options "")(descr "adc"))
+  (lib (name "74hc151d")(type "KiCad")(uri "${KIPRJMOD}/74HC151D/74HC151D.kicad_sym")(options "")(descr "multiplex"))
+  (lib (name "bbcustom")(type "KiCad")(uri "${KIPRJMOD}/bbcustom.kicad_sym")(options "")(descr ""))
+)
