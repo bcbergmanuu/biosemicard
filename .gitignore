@@ -1,2 +1,3 @@
 /biosemicard-backups/*
 *.bak
+*.lck

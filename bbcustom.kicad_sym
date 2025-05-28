@@ -302,6 +302,38 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Library" "/home/bergm006/kicad/biosemicard/sbomao2c/OPAx188-dual.LIB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Name" "OPAx188"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=1OUT 2=1IN- 3=1IN+ 4=VEE 5=2IN+ 6=2IN- 7=2OUT 8=VCC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "dual opamp"
 			(at 0 0 0)
 			(effects
