@@ -6052,7 +6052,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2u"
+		(property "Value" "100n"
 			(at 42.672 60.706 0)
 			(effects
 				(font
@@ -6061,7 +6061,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 42.8752 67.31 0)
 			(effects
 				(font
@@ -6079,7 +6079,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10V 2.2uF X5R ±10%"
+		(property "Description" "10V 100nF X7R ±10%"
 			(at 41.91 63.5 0)
 			(effects
 				(font
@@ -6088,7 +6088,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1607"
+		(property "LCSC" "C880295"
 			(at 41.91 63.5 0)
 			(effects
 				(font

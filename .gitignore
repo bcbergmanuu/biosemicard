@@ -1,3 +1,6 @@
 /biosemicard-backups/*
+/production/*
 *.bak
 *.lck
+fp-info-cache
+biosemicard.round-tracks-config
